@@ -1,4 +1,5 @@
-# NutriAgent AI — Dietician AI Agent
+## 🌐 Live Demo
+https://nutriagent-ai-x2y5pnr46xr3mnthzmxt6y.streamlit.app# NutriAgent AI — Dietician AI Agent
 
 ## What is this project?
 
